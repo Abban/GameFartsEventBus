@@ -1,0 +1,21 @@
+{
+    "name": "com.bigbadstudios.library.eventbus",
+    "version": "1.0.0",
+    "displayName": "BBX EventBus",
+    "description": "A simple event management system using C# actions.",
+    "unity": "2019.1",
+    "author": {
+        "name": "Abban Dunne",
+        "url": "https://abandon.ie"
+    },
+    "samples": [
+        {
+            "displayName": "Singleton",
+            "description": "Example of using the EventBus as a singleton",
+            "path": "Samples~/Singleton"
+        }
+    ],
+    "dependencies": {
+        
+    }
+}

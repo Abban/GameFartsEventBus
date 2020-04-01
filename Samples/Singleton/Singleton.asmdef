@@ -1,0 +1,15 @@
+{
+    "name": "Singleton",
+    "references": [
+        "GUID:b91c056e1c8ae41a689da3be780a1c01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
