@@ -40,7 +40,7 @@ private void OnDisable()
     _eventBus.Unsubscribe<FireEvent>(OnFire);
 }
 
-private void OnFire(EventDispatcher.FireEvent payload)
+private void OnFire(FireEvent payload)
 {
     Debug.Log( $"Firing in direction {payload.Direction}" );
 }
