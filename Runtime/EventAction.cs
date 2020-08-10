@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace BBX.Library.EventManagement
+namespace GF.Library.EventManagement
 {
     public class EventAction<T> : IEventAction<T> where T : IEvent
     {

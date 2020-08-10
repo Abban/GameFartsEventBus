@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace BBX.Library.EventManagement.Tests
+namespace GF.Library.EventManagement.Tests
 {
     [TestFixture]
     public class EventActionTests

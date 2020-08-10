@@ -1,6 +1,6 @@
 using System;
 
-namespace BBX.Library.EventManagement
+namespace GF.Library.EventManagement
 {
     public interface IEventAction<T> where T : IEvent
     {

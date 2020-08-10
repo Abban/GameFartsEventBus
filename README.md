@@ -1,4 +1,4 @@
-# Big Bad Studios Unity Event Bus 
+# Game Farts Unity Event Bus 
 
 Vroom.
 

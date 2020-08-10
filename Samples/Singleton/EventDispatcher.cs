@@ -1,5 +1,5 @@
 using UnityEngine;
-using BBX.Library.EventManagement;
+using GF.Library.EventManagement;
 
 namespace EventManagerSingleton
 {

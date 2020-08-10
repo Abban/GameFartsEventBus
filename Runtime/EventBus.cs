@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BBX.Library.EventManagement
+namespace GF.Library.EventManagement
 {
     public class EventBus : IEventBus
     {
