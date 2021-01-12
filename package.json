@@ -1,6 +1,6 @@
 {
     "name": "com.gamefarts.library.eventbus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Game Farts EventBus",
     "description": "A simple event management system using C# actions.",
     "unity": "2019.1",
