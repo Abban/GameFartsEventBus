@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace GF.Library.EventManagement
 {
-    [CreateAssetMenu(fileName = "EventBus", menuName = "GF/Event Bus")]
+    [CreateAssetMenu(fileName = "EventBus", menuName = "GF/Event Bus/Event Bus")]
     public class EventBusScriptableObject : ScriptableObject, IEventBus
     {
         private IEventBus _eventBus;
